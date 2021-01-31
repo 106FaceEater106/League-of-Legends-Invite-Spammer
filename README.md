@@ -1,6 +1,7 @@
 # League-of-Legends-Invite-Spammer
 Add me on Discord for more Information: Baseult#5684
-More Information: https://lolspam.fun
+
+<p>More Information: https://lolspam.fun</p>
 
 Exploits found by the Janna# Team
 
