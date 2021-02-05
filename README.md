@@ -2,7 +2,8 @@
 Add me on Discord for more Information: Baseult#5684
 <p>Join my Discord here: https://discord.gg/eRSktWTsCm</p>
 
-<iframe width="1222" height="696" src="https://www.youtube.com/embed/WrTydlp2f9M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![Baseult#](https://img.youtube.com/vi/WrTydlp2f9M/0.jpg)](https://www.youtube.com/watch?v=WrTydlp2f9M)
 
 Exploits found by the Janna# Team
 
