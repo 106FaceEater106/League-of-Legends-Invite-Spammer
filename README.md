@@ -2,6 +2,8 @@
 Add me on Discord for more Information: Baseult#5684
 <p>Join my Discord here: https://discord.gg/eRSktWTsCm</p>
 
+<iframe width="1222" height="696" src="https://www.youtube.com/embed/WrTydlp2f9M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Exploits found by the Janna# Team
 
 <h1>**Working**</h1><br>
